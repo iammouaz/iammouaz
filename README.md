@@ -4,7 +4,7 @@ I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](htt
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MoazMulki1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MoazMulki1)](https://twitter.com/MoazMulki1) [![![Linkedin Badge](https://img.shields.io/badge/-mouaz-1368981bb?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mouaz-molki-1368981bb/) [![Mail Badge](https://img.shields.io/badge/-@moazmulki-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/moazmulki) [![Mail Badge](https://img.shields.io/badge/-moazmulki33-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:moazmulki33@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@MoazMulki1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MoazMulki1)](https://twitter.com/MoazMulki1) [![![Linkedin Badge][(https://img.shields.io/badge/-mouaz-1368981bb?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mouaz-molki-1368981bb/) [![Mail Badge](https://img.shields.io/badge/-@moazmulki-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/moazmulki) [![Mail Badge](https://img.shields.io/badge/-moazmulki33-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:moazmulki33@gmail.com)
 
 <!-- TODO: Add last video link -->
 
