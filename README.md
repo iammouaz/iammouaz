@@ -34,8 +34,6 @@ I'm Mouaz El Molkey a Junior Full Stack Web Developer .
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
