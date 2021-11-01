@@ -34,8 +34,8 @@
 
 
 <p float="left">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko" width="54%"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="44%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=iammouaz&count_private=true&show_icons=true&theme=merko" width="54%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammouaz&layout=compact&theme=merko" width="44%"/></a>
 </p>
 
 <h2 align="center">🤝🏻 Connect with Me</h2>
