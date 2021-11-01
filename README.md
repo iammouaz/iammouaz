@@ -1,14 +1,16 @@
-## Hi I'm Mouaz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mouaz El Molkey a Junior Full Stack Web Developer .
+<img src="./HiThere.gif"/>
+
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@MoazMulki1-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MoazMulki1)](https://twitter.com/MoazMulki1)[![Linkedin Badge](https://img.shields.io/badge/-mouaz-1368981bb?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mouaz-molki-1368981bb/)[![Mail Badge](https://img.shields.io/badge/-@moazmulki-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/moazmulki) [![Mail Badge](https://img.shields.io/badge/-moazmulki33-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:moazmulki33@gmail.com)
 
-<!-- TODO: Add last video link -->
 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+## 👨🏻‍💻 About Me
+
+- I'm Full Stack developer who love coding with JavaScript 
+- I'm Currently Finishing a bootcamp in Microverse.
 - 📫 How to reach me: moazmulki33@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
@@ -27,21 +29,21 @@ I'm Mouaz El Molkey a Junior Full Stack Web Developer .
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iammouaz.iammouaz)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
+## 📊 Some statistics
 
-#### Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+<p float="left">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=dicodiaz&count_private=true&show_icons=true&theme=merko" width="54%"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dicodiaz&layout=compact&theme=merko" width="44%"/></a>
+</p>
+
+<h2 align="center">🤝🏻 Connect with Me</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammad-mouaz-molki-1368981bb/  " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;<a href="https://twitter.com/MoazMulki1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/{iammouaz}/count.svg"/>
+</p>
