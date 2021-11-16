@@ -12,7 +12,7 @@
 - I'm Full Stack developer who love coding with JavaScript 
 - I'm Currently Finishing a bootcamp in Microverse.
 - 📫 How to reach me: moazmulki33@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play video games & GYM is my second home.
 
 #### Top Technologies
 
