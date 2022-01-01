@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mouaz El Molkey</h1>
 <h3 align="center">Full-Stack developer with a love for JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammouaz&label=Profile%20views&color=0e75b6&style=flat" alt="iammouaz" /> </p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{iammouaz}/count.svg"/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammouaz" alt="iammouaz" /></a> </p>
 
@@ -9,13 +11,13 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👨‍💻 All of my projects are available at [https://iammouaz.github.io/Portfolio/](https://iammouaz.github.io/Portfolio/)
+- 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio/](https://iammouaz.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **moazmulki33@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/iammouaz/iammouaz/blob/main/Resume/Moaz%20Almulki.pdf](https://github.com/iammouaz/iammouaz/blob/main/Resume/Moaz%20Almulki.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/iammouaz/iammouaz/blob/main/Resume/Moaz%20Almulki.pdf)
 
 - ⚡ Fun fact **I'm A Dota 2 & Apex Legends Player**
 
