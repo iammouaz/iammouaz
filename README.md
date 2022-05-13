@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **moazmulki33@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/iammouaz/iammouaz/blob/main/Resume/Moaz%20Almulki.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/iammouaz/iammouaz/blob/main/Resume/It's%20Mouaz's%20CV.pdf)
 
 - ⚡ Fun fact **I'm A Dota 2 & Apex Legends Player**
 
