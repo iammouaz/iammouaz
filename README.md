@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on App using React [Cube26](https://cube26.axensocenter.com/)
 
-- 🌱 I’m currently learning **Pyhton**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio/](https://iammouaz.github.io/Portfolio/)
 
