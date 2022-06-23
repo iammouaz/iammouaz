@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammouaz" alt="iammouaz" /></a> </p>
 
-- 🔭 I’m currently working on App using Ruby [School Library](https://github.com/iammouaz/School_Library)
+- 🔭 I’m currently working on App using React [Cube26](https://cube26.axensocenter.com/)
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **Pyhton**
 
 - 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio/](https://iammouaz.github.io/Portfolio/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, Ruby**
 
 - 📫 How to reach me **moazmulki33@gmail.com**
 
