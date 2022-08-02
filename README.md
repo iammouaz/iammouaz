@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammouaz" alt="iammouaz" /></a> </p>
 
-- 🔭 I’m currently working on App using React [Cube26](https://cube26.axensocenter.com/)
+- 🔭 I’m currently working on App using React [Giki](https://dev.d333npm079ttip.amplifyapp.com/sign-in)
 
 - 🌱 I’m currently learning **Python**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **moazmulki33@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/iammouaz/iammouaz/blob/main/Resume/It's%20Mouaz's%20CV.pdf)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YZgGLkJC8khNZzYTB5-VUX-mxsMK8gIV/view?usp=sharing)
 
 - ⚡ Fun fact **I'm A Dota 2 & Apex Legends Player**
 
