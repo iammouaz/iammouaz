@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio/](https://iammouaz.github.io/Portfolio/)
+- 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio-V2/](https://iammouaz.github.io/Portfolio-V2/)
 
 - 💬 Ask me about **JavaScript, Ruby**
 
