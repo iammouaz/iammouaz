@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **moazmulki33@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YZgGLkJC8khNZzYTB5-VUX-mxsMK8gIV/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1vh9qT22ak0R7RdwqzRupBY5NogmxtMxA/view?usp=sharing)
 
 - ⚡ Fun fact **I'm A Dota 2 & Apex Legends Player**
 
