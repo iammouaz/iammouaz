@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammouaz" alt="iammouaz" /></a> </p>
 
-- 👨‍💻 My last projects are available at [https://iammouaz.github.io/Portfolio-V2/](https://iammouaz.github.io/Portfolio-V2/)
+- 👨‍💻 My last projects are available at [https://iammouaz.github.io/portfolio-new/](https://iammouaz.github.io/portfolio-new/)
 
-- 📫 How to reach me **moazmulki33@gmail.com**
+- 📫 How to reach me **mouaz.almolkey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
